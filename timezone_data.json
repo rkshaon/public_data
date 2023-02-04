@@ -1,0 +1,4250 @@
+[
+    {
+        "tz_database_name": "Africa/Abidjan",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "CI"
+    },
+    {
+        "tz_database_name": "Africa/Abidjan",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "BF"
+    },
+    {
+        "tz_database_name": "Africa/Abidjan",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "GH"
+    },
+    {
+        "tz_database_name": "Africa/Abidjan",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "GM"
+    },
+    {
+        "tz_database_name": "Africa/Abidjan",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "GN"
+    },
+    {
+        "tz_database_name": "Africa/Abidjan",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "IS"
+    },
+    {
+        "tz_database_name": "Africa/Abidjan",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "ML"
+    },
+    {
+        "tz_database_name": "Africa/Abidjan",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "MR"
+    },
+    {
+        "tz_database_name": "Africa/Abidjan",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "SH"
+    },
+    {
+        "tz_database_name": "Africa/Abidjan",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "SL"
+    },
+    {
+        "tz_database_name": "Africa/Abidjan",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "SN"
+    },
+    {
+        "tz_database_name": "Africa/Abidjan",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "TG"
+    },
+    {
+        "tz_database_name": "Africa/Accra",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "GH"
+    },
+    {
+        "tz_database_name": "Africa/Bamako",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "ML"
+    },
+    {
+        "tz_database_name": "Africa/Banjul",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "GM"
+    },
+    {
+        "tz_database_name": "Africa/Bissau",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "GW"
+    },
+    {
+        "tz_database_name": "Africa/Conakry",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "GN"
+    },
+    {
+        "tz_database_name": "Africa/Dakar",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "SN"
+    },
+    {
+        "tz_database_name": "Africa/Freetown",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "SL"
+    },
+    {
+        "tz_database_name": "Africa/Lome",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "TG"
+    },
+    {
+        "tz_database_name": "Africa/Monrovia",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "LR"
+    },
+    {
+        "tz_database_name": "Africa/Nouakchott",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "MR"
+    },
+    {
+        "tz_database_name": "Africa/Ouagadougou",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "BF"
+    },
+    {
+        "tz_database_name": "Africa/Sao Tome",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "ST"
+    },
+    {
+        "tz_database_name": "Africa/Timbuktu",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "ML"
+    },
+    {
+        "tz_database_name": "America/Danmarkshavn",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "GL"
+    },
+    {
+        "tz_database_name": "Antarctica/Troll",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "AQ"
+    },
+    {
+        "tz_database_name": "Atlantic/Canary",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "ES"
+    },
+    {
+        "tz_database_name": "Atlantic/Faeroe",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "FO"
+    },
+    {
+        "tz_database_name": "Atlantic/Faroe",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "FO"
+    },
+    {
+        "tz_database_name": "Atlantic/Madeira",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "PT"
+    },
+    {
+        "tz_database_name": "Atlantic/Reykjavik",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "IS"
+    },
+    {
+        "tz_database_name": "Atlantic/St Helena",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "SH"
+    },
+    {
+        "tz_database_name": "Etc/GMT",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Etc/GMT+0",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Etc/GMT-0",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Etc/GMT0",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Etc/Greenwich",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Etc/UCT",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Etc/Universal",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Etc/UTC",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Etc/Zulu",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Europe/Belfast",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "GB"
+    },
+    {
+        "tz_database_name": "Europe/Guernsey",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "GG"
+    },
+    {
+        "tz_database_name": "Europe/Isle of Man",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "IM"
+    },
+    {
+        "tz_database_name": "Europe/Jersey",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "JE"
+    },
+    {
+        "tz_database_name": "Europe/Lisbon",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "PT"
+    },
+    {
+        "tz_database_name": "Europe/London",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "GB"
+    },
+    {
+        "tz_database_name": "Europe/London",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "GG"
+    },
+    {
+        "tz_database_name": "Europe/London",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "IM"
+    },
+    {
+        "tz_database_name": "Europe/London",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "JE"
+    },
+    {
+        "tz_database_name": "Factory",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "GB",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "GB"
+    },
+    {
+        "tz_database_name": "GB-Eire",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "GB"
+    },
+    {
+        "tz_database_name": "GMT",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "GMT+0",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "GMT-0",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "GMT0",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Greenwich",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Iceland",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "IS"
+    },
+    {
+        "tz_database_name": "Portugal",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": "PT"
+    },
+    {
+        "tz_database_name": "UCT",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Universal",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "UTC",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "WET",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Zulu",
+        "utc_time": "+00:00",
+        "dst_time": "+00:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Africa/Algiers",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "DZ"
+    },
+    {
+        "tz_database_name": "Africa/Bangui",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "CF"
+    },
+    {
+        "tz_database_name": "Africa/Brazzaville",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "CG"
+    },
+    {
+        "tz_database_name": "Africa/Casablanca",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "MA"
+    },
+    {
+        "tz_database_name": "Africa/Ceuta",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "ES"
+    },
+    {
+        "tz_database_name": "Africa/Douala",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "CM"
+    },
+    {
+        "tz_database_name": "Africa/El Aaiun",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "EH"
+    },
+    {
+        "tz_database_name": "Africa/Kinshasa",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "CD"
+    },
+    {
+        "tz_database_name": "Africa/Lagos",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "NG"
+    },
+    {
+        "tz_database_name": "Africa/Lagos",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "AO"
+    },
+    {
+        "tz_database_name": "Africa/Lagos",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "BJ"
+    },
+    {
+        "tz_database_name": "Africa/Lagos",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "CD"
+    },
+    {
+        "tz_database_name": "Africa/Lagos",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "CF"
+    },
+    {
+        "tz_database_name": "Africa/Lagos",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "CG"
+    },
+    {
+        "tz_database_name": "Africa/Lagos",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "CM"
+    },
+    {
+        "tz_database_name": "Africa/Lagos",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "GA"
+    },
+    {
+        "tz_database_name": "Africa/Lagos",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "GQ"
+    },
+    {
+        "tz_database_name": "Africa/Lagos",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "NE"
+    },
+    {
+        "tz_database_name": "Africa/Libreville",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "GA"
+    },
+    {
+        "tz_database_name": "Africa/Luanda",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "AO"
+    },
+    {
+        "tz_database_name": "Africa/Malabo",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "GQ"
+    },
+    {
+        "tz_database_name": "Africa/Ndjamena",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "TD"
+    },
+    {
+        "tz_database_name": "Africa/Niamey",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "NE"
+    },
+    {
+        "tz_database_name": "Africa/Porto-Novo",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "BJ"
+    },
+    {
+        "tz_database_name": "Africa/Tunis",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "TN"
+    },
+    {
+        "tz_database_name": "Arctic/Longyearbyen",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "SJ"
+    },
+    {
+        "tz_database_name": "Atlantic/Jan Mayen",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "SJ"
+    },
+    {
+        "tz_database_name": "CET",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Eire",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "IE"
+    },
+    {
+        "tz_database_name": "Etc/GMT-1",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Europe/Amsterdam",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "NL"
+    },
+    {
+        "tz_database_name": "Europe/Andorra",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "AD"
+    },
+    {
+        "tz_database_name": "Europe/Belgrade",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "RS"
+    },
+    {
+        "tz_database_name": "Europe/Belgrade",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "BA"
+    },
+    {
+        "tz_database_name": "Europe/Belgrade",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "HR"
+    },
+    {
+        "tz_database_name": "Europe/Belgrade",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "ME"
+    },
+    {
+        "tz_database_name": "Europe/Belgrade",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "MK"
+    },
+    {
+        "tz_database_name": "Europe/Belgrade",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "SI"
+    },
+    {
+        "tz_database_name": "Europe/Berlin",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "DE"
+    },
+    {
+        "tz_database_name": "Europe/Berlin",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "DK"
+    },
+    {
+        "tz_database_name": "Europe/Berlin",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "NO"
+    },
+    {
+        "tz_database_name": "Europe/Berlin",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "SE"
+    },
+    {
+        "tz_database_name": "Europe/Berlin",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "SJ"
+    },
+    {
+        "tz_database_name": "Europe/Bratislava",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "SK"
+    },
+    {
+        "tz_database_name": "Europe/Brussels",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "BE"
+    },
+    {
+        "tz_database_name": "Europe/Brussels",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "LU"
+    },
+    {
+        "tz_database_name": "Europe/Brussels",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "NL"
+    },
+    {
+        "tz_database_name": "Europe/Budapest",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "HU"
+    },
+    {
+        "tz_database_name": "Europe/Busingen",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "DE"
+    },
+    {
+        "tz_database_name": "Europe/Copenhagen",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "DK"
+    },
+    {
+        "tz_database_name": "Europe/Dublin",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "IE"
+    },
+    {
+        "tz_database_name": "Europe/Gibraltar",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "GI"
+    },
+    {
+        "tz_database_name": "Europe/Ljubljana",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "SI"
+    },
+    {
+        "tz_database_name": "Europe/Luxembourg",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "LU"
+    },
+    {
+        "tz_database_name": "Europe/Madrid",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "ES"
+    },
+    {
+        "tz_database_name": "Europe/Malta",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "MT"
+    },
+    {
+        "tz_database_name": "Europe/Monaco",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "MC"
+    },
+    {
+        "tz_database_name": "Europe/Oslo",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "NO"
+    },
+    {
+        "tz_database_name": "Europe/Paris",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "FR"
+    },
+    {
+        "tz_database_name": "Europe/Paris",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "MC"
+    },
+    {
+        "tz_database_name": "Europe/Podgorica",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "ME"
+    },
+    {
+        "tz_database_name": "Europe/Prague",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "CZ"
+    },
+    {
+        "tz_database_name": "Europe/Prague",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "SK"
+    },
+    {
+        "tz_database_name": "Europe/Rome",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "IT"
+    },
+    {
+        "tz_database_name": "Europe/Rome",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "SM"
+    },
+    {
+        "tz_database_name": "Europe/Rome",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "VA"
+    },
+    {
+        "tz_database_name": "Europe/San Marino",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "SM"
+    },
+    {
+        "tz_database_name": "Europe/Sarajevo",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "BA"
+    },
+    {
+        "tz_database_name": "Europe/Skopje",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "MK"
+    },
+    {
+        "tz_database_name": "Europe/Stockholm",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "SE"
+    },
+    {
+        "tz_database_name": "Europe/Tirane",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "AL"
+    },
+    {
+        "tz_database_name": "Europe/Vaduz",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "LI"
+    },
+    {
+        "tz_database_name": "Europe/Vatican",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "VA"
+    },
+    {
+        "tz_database_name": "Europe/Vienna",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "AT"
+    },
+    {
+        "tz_database_name": "Europe/Warsaw",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "PL"
+    },
+    {
+        "tz_database_name": "Europe/Zagreb",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "HR"
+    },
+    {
+        "tz_database_name": "Europe/Zurich",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "CH"
+    },
+    {
+        "tz_database_name": "Europe/Zurich",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "DE"
+    },
+    {
+        "tz_database_name": "Europe/Zurich",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "LI"
+    },
+    {
+        "tz_database_name": "MET",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Poland",
+        "utc_time": "+01:00",
+        "dst_time": "+01:00",
+        "country_code": "PL"
+    },
+    {
+        "tz_database_name": "Africa/Blantyre",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "MW"
+    },
+    {
+        "tz_database_name": "Africa/Bujumbura",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "BI"
+    },
+    {
+        "tz_database_name": "Africa/Cairo",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "EG"
+    },
+    {
+        "tz_database_name": "Africa/Gaborone",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "BW"
+    },
+    {
+        "tz_database_name": "Africa/Harare",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "ZW"
+    },
+    {
+        "tz_database_name": "Africa/Johannesburg",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "ZA"
+    },
+    {
+        "tz_database_name": "Africa/Johannesburg",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "LS"
+    },
+    {
+        "tz_database_name": "Africa/Johannesburg",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "SZ"
+    },
+    {
+        "tz_database_name": "Africa/Juba",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "SS"
+    },
+    {
+        "tz_database_name": "Africa/Khartoum",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "SD"
+    },
+    {
+        "tz_database_name": "Africa/Kigali",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "RW"
+    },
+    {
+        "tz_database_name": "Africa/Lubumbashi",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "CD"
+    },
+    {
+        "tz_database_name": "Africa/Lusaka",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "ZM"
+    },
+    {
+        "tz_database_name": "Africa/Maputo",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "MZ"
+    },
+    {
+        "tz_database_name": "Africa/Maputo",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "BI"
+    },
+    {
+        "tz_database_name": "Africa/Maputo",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "BW"
+    },
+    {
+        "tz_database_name": "Africa/Maputo",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "CD"
+    },
+    {
+        "tz_database_name": "Africa/Maputo",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "MW"
+    },
+    {
+        "tz_database_name": "Africa/Maputo",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "RW"
+    },
+    {
+        "tz_database_name": "Africa/Maputo",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "ZM"
+    },
+    {
+        "tz_database_name": "Africa/Maputo",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "ZW"
+    },
+    {
+        "tz_database_name": "Africa/Maseru",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "LS"
+    },
+    {
+        "tz_database_name": "Africa/Mbabane",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "SZ"
+    },
+    {
+        "tz_database_name": "Africa/Tripoli",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "LY"
+    },
+    {
+        "tz_database_name": "Africa/Windhoek",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "NA"
+    },
+    {
+        "tz_database_name": "Asia/Beirut",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "LB"
+    },
+    {
+        "tz_database_name": "Asia/Famagusta",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "CY"
+    },
+    {
+        "tz_database_name": "Asia/Gaza",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "PS"
+    },
+    {
+        "tz_database_name": "Asia/Hebron",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "PS"
+    },
+    {
+        "tz_database_name": "Asia/Jerusalem",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "IL"
+    },
+    {
+        "tz_database_name": "Asia/Nicosia",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "CY"
+    },
+    {
+        "tz_database_name": "Asia/Tel Aviv",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "IL"
+    },
+    {
+        "tz_database_name": "EET",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Egypt",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "EG"
+    },
+    {
+        "tz_database_name": "Etc/GMT-2",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Europe/Athens",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "GR"
+    },
+    {
+        "tz_database_name": "Europe/Bucharest",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "RO"
+    },
+    {
+        "tz_database_name": "Europe/Chisinau",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "MD"
+    },
+    {
+        "tz_database_name": "Europe/Helsinki",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "FI"
+    },
+    {
+        "tz_database_name": "Europe/Helsinki",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "AX"
+    },
+    {
+        "tz_database_name": "Europe/Kaliningrad",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Europe/Kiev",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "UA"
+    },
+    {
+        "tz_database_name": "Europe/Kyiv",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "UA"
+    },
+    {
+        "tz_database_name": "Europe/Mariehamn",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "AX"
+    },
+    {
+        "tz_database_name": "Europe/Nicosia",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "CY"
+    },
+    {
+        "tz_database_name": "Europe/Riga",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "LV"
+    },
+    {
+        "tz_database_name": "Europe/Sofia",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "BG"
+    },
+    {
+        "tz_database_name": "Europe/Tallinn",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "EE"
+    },
+    {
+        "tz_database_name": "Europe/Tiraspol",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "MD"
+    },
+    {
+        "tz_database_name": "Europe/Uzhgorod",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "UA"
+    },
+    {
+        "tz_database_name": "Europe/Vilnius",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "LT"
+    },
+    {
+        "tz_database_name": "Europe/Zaporozhye",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "UA"
+    },
+    {
+        "tz_database_name": "Israel",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "IL"
+    },
+    {
+        "tz_database_name": "Libya",
+        "utc_time": "+02:00",
+        "dst_time": "+02:00",
+        "country_code": "LY"
+    },
+    {
+        "tz_database_name": "Africa/Addis Ababa",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "ET"
+    },
+    {
+        "tz_database_name": "Africa/Asmara",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "ER"
+    },
+    {
+        "tz_database_name": "Africa/Asmera",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "ER"
+    },
+    {
+        "tz_database_name": "Africa/Dar es Salaam",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "TZ"
+    },
+    {
+        "tz_database_name": "Africa/Djibouti",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "DJ"
+    },
+    {
+        "tz_database_name": "Africa/Kampala",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "UG"
+    },
+    {
+        "tz_database_name": "Africa/Mogadishu",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "SO"
+    },
+    {
+        "tz_database_name": "Africa/Nairobi",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "KE"
+    },
+    {
+        "tz_database_name": "Africa/Nairobi",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "DJ"
+    },
+    {
+        "tz_database_name": "Africa/Nairobi",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "ER"
+    },
+    {
+        "tz_database_name": "Africa/Nairobi",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "ET"
+    },
+    {
+        "tz_database_name": "Africa/Nairobi",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "KM"
+    },
+    {
+        "tz_database_name": "Africa/Nairobi",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "MG"
+    },
+    {
+        "tz_database_name": "Africa/Nairobi",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "SO"
+    },
+    {
+        "tz_database_name": "Africa/Nairobi",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "TZ"
+    },
+    {
+        "tz_database_name": "Africa/Nairobi",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "UG"
+    },
+    {
+        "tz_database_name": "Africa/Nairobi",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "YT"
+    },
+    {
+        "tz_database_name": "Antarctica/Syowa",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "AQ"
+    },
+    {
+        "tz_database_name": "Asia/Aden",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "YE"
+    },
+    {
+        "tz_database_name": "Asia/Amman",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "JO"
+    },
+    {
+        "tz_database_name": "Asia/Baghdad",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "IQ"
+    },
+    {
+        "tz_database_name": "Asia/Bahrain",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "BH"
+    },
+    {
+        "tz_database_name": "Asia/Damascus",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "SY"
+    },
+    {
+        "tz_database_name": "Asia/Istanbul",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "TR"
+    },
+    {
+        "tz_database_name": "Asia/Kuwait",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "KW"
+    },
+    {
+        "tz_database_name": "Asia/Qatar",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "QA"
+    },
+    {
+        "tz_database_name": "Asia/Qatar",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "BH"
+    },
+    {
+        "tz_database_name": "Asia/Riyadh",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "SA"
+    },
+    {
+        "tz_database_name": "Asia/Riyadh",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "AQ"
+    },
+    {
+        "tz_database_name": "Asia/Riyadh",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "KW"
+    },
+    {
+        "tz_database_name": "Asia/Riyadh",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "YE"
+    },
+    {
+        "tz_database_name": "Etc/GMT-3",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Europe/Istanbul",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "TR"
+    },
+    {
+        "tz_database_name": "Europe/Kirov",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Europe/Minsk",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "BY"
+    },
+    {
+        "tz_database_name": "Europe/Moscow",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Europe/Simferopol",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Europe/Simferopol",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "UA"
+    },
+    {
+        "tz_database_name": "Europe/Volgograd",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Indian/Antananarivo",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "MG"
+    },
+    {
+        "tz_database_name": "Indian/Comoro",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "KM"
+    },
+    {
+        "tz_database_name": "Indian/Mayotte",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "YT"
+    },
+    {
+        "tz_database_name": "Turkey",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "TR"
+    },
+    {
+        "tz_database_name": "W-SU",
+        "utc_time": "+03:00",
+        "dst_time": "+03:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Asia/Tehran",
+        "utc_time": "+03:30",
+        "dst_time": "+03:30",
+        "country_code": "IR"
+    },
+    {
+        "tz_database_name": "Iran",
+        "utc_time": "+03:30",
+        "dst_time": "+03:30",
+        "country_code": "IR"
+    },
+    {
+        "tz_database_name": "Asia/Baku",
+        "utc_time": "+04:00",
+        "dst_time": "+04:00",
+        "country_code": "AZ"
+    },
+    {
+        "tz_database_name": "Asia/Dubai",
+        "utc_time": "+04:00",
+        "dst_time": "+04:00",
+        "country_code": "AE"
+    },
+    {
+        "tz_database_name": "Asia/Dubai",
+        "utc_time": "+04:00",
+        "dst_time": "+04:00",
+        "country_code": "OM"
+    },
+    {
+        "tz_database_name": "Asia/Dubai",
+        "utc_time": "+04:00",
+        "dst_time": "+04:00",
+        "country_code": "RE"
+    },
+    {
+        "tz_database_name": "Asia/Dubai",
+        "utc_time": "+04:00",
+        "dst_time": "+04:00",
+        "country_code": "SC"
+    },
+    {
+        "tz_database_name": "Asia/Dubai",
+        "utc_time": "+04:00",
+        "dst_time": "+04:00",
+        "country_code": "TF"
+    },
+    {
+        "tz_database_name": "Asia/Muscat",
+        "utc_time": "+04:00",
+        "dst_time": "+04:00",
+        "country_code": "OM"
+    },
+    {
+        "tz_database_name": "Asia/Tbilisi",
+        "utc_time": "+04:00",
+        "dst_time": "+04:00",
+        "country_code": "GE"
+    },
+    {
+        "tz_database_name": "Asia/Yerevan",
+        "utc_time": "+04:00",
+        "dst_time": "+04:00",
+        "country_code": "AM"
+    },
+    {
+        "tz_database_name": "Etc/GMT-4",
+        "utc_time": "+04:00",
+        "dst_time": "+04:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Europe/Astrakhan",
+        "utc_time": "+04:00",
+        "dst_time": "+04:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Europe/Samara",
+        "utc_time": "+04:00",
+        "dst_time": "+04:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Europe/Saratov",
+        "utc_time": "+04:00",
+        "dst_time": "+04:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Europe/Ulyanovsk",
+        "utc_time": "+04:00",
+        "dst_time": "+04:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Indian/Mahe",
+        "utc_time": "+04:00",
+        "dst_time": "+04:00",
+        "country_code": "SC"
+    },
+    {
+        "tz_database_name": "Indian/Mauritius",
+        "utc_time": "+04:00",
+        "dst_time": "+04:00",
+        "country_code": "MU"
+    },
+    {
+        "tz_database_name": "Indian/Reunion",
+        "utc_time": "+04:00",
+        "dst_time": "+04:00",
+        "country_code": "RE"
+    },
+    {
+        "tz_database_name": "Asia/Kabul",
+        "utc_time": "+04:30",
+        "dst_time": "+04:30",
+        "country_code": "AF"
+    },
+    {
+        "tz_database_name": "Antarctica/Mawson",
+        "utc_time": "+05:00",
+        "dst_time": "+05:00",
+        "country_code": "AQ"
+    },
+    {
+        "tz_database_name": "Asia/Aqtau",
+        "utc_time": "+05:00",
+        "dst_time": "+05:00",
+        "country_code": "KZ"
+    },
+    {
+        "tz_database_name": "Asia/Aqtobe",
+        "utc_time": "+05:00",
+        "dst_time": "+05:00",
+        "country_code": "KZ"
+    },
+    {
+        "tz_database_name": "Asia/Ashgabat",
+        "utc_time": "+05:00",
+        "dst_time": "+05:00",
+        "country_code": "TM"
+    },
+    {
+        "tz_database_name": "Asia/Ashkhabad",
+        "utc_time": "+05:00",
+        "dst_time": "+05:00",
+        "country_code": "TM"
+    },
+    {
+        "tz_database_name": "Asia/Atyrau",
+        "utc_time": "+05:00",
+        "dst_time": "+05:00",
+        "country_code": "KZ"
+    },
+    {
+        "tz_database_name": "Asia/Dushanbe",
+        "utc_time": "+05:00",
+        "dst_time": "+05:00",
+        "country_code": "TJ"
+    },
+    {
+        "tz_database_name": "Asia/Karachi",
+        "utc_time": "+05:00",
+        "dst_time": "+05:00",
+        "country_code": "PK"
+    },
+    {
+        "tz_database_name": "Asia/Oral",
+        "utc_time": "+05:00",
+        "dst_time": "+05:00",
+        "country_code": "KZ"
+    },
+    {
+        "tz_database_name": "Asia/Qyzylorda",
+        "utc_time": "+05:00",
+        "dst_time": "+05:00",
+        "country_code": "KZ"
+    },
+    {
+        "tz_database_name": "Asia/Samarkand",
+        "utc_time": "+05:00",
+        "dst_time": "+05:00",
+        "country_code": "UZ"
+    },
+    {
+        "tz_database_name": "Asia/Tashkent",
+        "utc_time": "+05:00",
+        "dst_time": "+05:00",
+        "country_code": "UZ"
+    },
+    {
+        "tz_database_name": "Asia/Yekaterinburg",
+        "utc_time": "+05:00",
+        "dst_time": "+05:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Etc/GMT-5",
+        "utc_time": "+05:00",
+        "dst_time": "+05:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Indian/Kerguelen",
+        "utc_time": "+05:00",
+        "dst_time": "+05:00",
+        "country_code": "TF"
+    },
+    {
+        "tz_database_name": "Indian/Maldives",
+        "utc_time": "+05:00",
+        "dst_time": "+05:00",
+        "country_code": "MV"
+    },
+    {
+        "tz_database_name": "Indian/Maldives",
+        "utc_time": "+05:00",
+        "dst_time": "+05:00",
+        "country_code": "TF"
+    },
+    {
+        "tz_database_name": "Asia/Calcutta",
+        "utc_time": "+05:30",
+        "dst_time": "+05:30",
+        "country_code": "IN"
+    },
+    {
+        "tz_database_name": "Asia/Colombo",
+        "utc_time": "+05:30",
+        "dst_time": "+05:30",
+        "country_code": "LK"
+    },
+    {
+        "tz_database_name": "Asia/Kolkata",
+        "utc_time": "+05:30",
+        "dst_time": "+05:30",
+        "country_code": "IN"
+    },
+    {
+        "tz_database_name": "Asia/Kathmandu",
+        "utc_time": "+05:45",
+        "dst_time": "+05:45",
+        "country_code": "NP"
+    },
+    {
+        "tz_database_name": "Asia/Katmandu",
+        "utc_time": "+05:45",
+        "dst_time": "+05:45",
+        "country_code": "NP"
+    },
+    {
+        "tz_database_name": "Antarctica/Vostok",
+        "utc_time": "+06:00",
+        "dst_time": "+06:00",
+        "country_code": "AQ"
+    },
+    {
+        "tz_database_name": "Asia/Almaty",
+        "utc_time": "+06:00",
+        "dst_time": "+06:00",
+        "country_code": "KZ"
+    },
+    {
+        "tz_database_name": "Asia/Bishkek",
+        "utc_time": "+06:00",
+        "dst_time": "+06:00",
+        "country_code": "KG"
+    },
+    {
+        "tz_database_name": "Asia/Dacca",
+        "utc_time": "+06:00",
+        "dst_time": "+06:00",
+        "country_code": "BD"
+    },
+    {
+        "tz_database_name": "Asia/Dhaka",
+        "utc_time": "+06:00",
+        "dst_time": "+06:00",
+        "country_code": "BD"
+    },
+    {
+        "tz_database_name": "Asia/Kashgar",
+        "utc_time": "+06:00",
+        "dst_time": "+06:00",
+        "country_code": "CN"
+    },
+    {
+        "tz_database_name": "Asia/Omsk",
+        "utc_time": "+06:00",
+        "dst_time": "+06:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Asia/Qostanay",
+        "utc_time": "+06:00",
+        "dst_time": "+06:00",
+        "country_code": "KZ"
+    },
+    {
+        "tz_database_name": "Asia/Thimbu",
+        "utc_time": "+06:00",
+        "dst_time": "+06:00",
+        "country_code": "BT"
+    },
+    {
+        "tz_database_name": "Asia/Thimphu",
+        "utc_time": "+06:00",
+        "dst_time": "+06:00",
+        "country_code": "BT"
+    },
+    {
+        "tz_database_name": "Asia/Urumqi",
+        "utc_time": "+06:00",
+        "dst_time": "+06:00",
+        "country_code": "CN"
+    },
+    {
+        "tz_database_name": "Asia/Urumqi",
+        "utc_time": "+06:00",
+        "dst_time": "+06:00",
+        "country_code": "AQ"
+    },
+    {
+        "tz_database_name": "Etc/GMT-6",
+        "utc_time": "+06:00",
+        "dst_time": "+06:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Indian/Chagos",
+        "utc_time": "+06:00",
+        "dst_time": "+06:00",
+        "country_code": "IO"
+    },
+    {
+        "tz_database_name": "Asia/Rangoon",
+        "utc_time": "+06:30",
+        "dst_time": "+06:30",
+        "country_code": "MM"
+    },
+    {
+        "tz_database_name": "Asia/Yangon",
+        "utc_time": "+06:30",
+        "dst_time": "+06:30",
+        "country_code": "MM"
+    },
+    {
+        "tz_database_name": "Asia/Yangon",
+        "utc_time": "+06:30",
+        "dst_time": "+06:30",
+        "country_code": "CC"
+    },
+    {
+        "tz_database_name": "Indian/Cocos",
+        "utc_time": "+06:30",
+        "dst_time": "+06:30",
+        "country_code": "CC"
+    },
+    {
+        "tz_database_name": "Antarctica/Davis",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "AQ"
+    },
+    {
+        "tz_database_name": "Asia/Bangkok",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "TH"
+    },
+    {
+        "tz_database_name": "Asia/Bangkok",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "CX"
+    },
+    {
+        "tz_database_name": "Asia/Bangkok",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "KH"
+    },
+    {
+        "tz_database_name": "Asia/Bangkok",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "LA"
+    },
+    {
+        "tz_database_name": "Asia/Bangkok",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "VN"
+    },
+    {
+        "tz_database_name": "Asia/Barnaul",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Asia/Ho Chi Minh",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "VN"
+    },
+    {
+        "tz_database_name": "Asia/Hovd",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "MN"
+    },
+    {
+        "tz_database_name": "Asia/Jakarta",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "ID"
+    },
+    {
+        "tz_database_name": "Asia/Krasnoyarsk",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Asia/Novokuznetsk",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Asia/Novosibirsk",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Asia/Phnom Penh",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "KH"
+    },
+    {
+        "tz_database_name": "Asia/Pontianak",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "ID"
+    },
+    {
+        "tz_database_name": "Asia/Saigon",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "VN"
+    },
+    {
+        "tz_database_name": "Asia/Tomsk",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Asia/Vientiane",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "LA"
+    },
+    {
+        "tz_database_name": "Etc/GMT-7",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Indian/Christmas",
+        "utc_time": "+07:00",
+        "dst_time": "+07:00",
+        "country_code": "CX"
+    },
+    {
+        "tz_database_name": "Asia/Brunei",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "BN"
+    },
+    {
+        "tz_database_name": "Asia/Choibalsan",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "MN"
+    },
+    {
+        "tz_database_name": "Asia/Chongqing",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "CN"
+    },
+    {
+        "tz_database_name": "Asia/Chungking",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "CN"
+    },
+    {
+        "tz_database_name": "Asia/Harbin",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "CN"
+    },
+    {
+        "tz_database_name": "Asia/Hong Kong",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "HK"
+    },
+    {
+        "tz_database_name": "Asia/Irkutsk",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Asia/Kuala Lumpur",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "MY"
+    },
+    {
+        "tz_database_name": "Asia/Kuching",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "MY"
+    },
+    {
+        "tz_database_name": "Asia/Kuching",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "BN"
+    },
+    {
+        "tz_database_name": "Asia/Macao",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "MO"
+    },
+    {
+        "tz_database_name": "Asia/Macau",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "MO"
+    },
+    {
+        "tz_database_name": "Asia/Makassar",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "ID"
+    },
+    {
+        "tz_database_name": "Asia/Manila",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "PH"
+    },
+    {
+        "tz_database_name": "Asia/Shanghai",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "CN"
+    },
+    {
+        "tz_database_name": "Asia/Singapore",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "SG"
+    },
+    {
+        "tz_database_name": "Asia/Singapore",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "MY"
+    },
+    {
+        "tz_database_name": "Asia/Taipei",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "TW"
+    },
+    {
+        "tz_database_name": "Asia/Ujung Pandang",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "ID"
+    },
+    {
+        "tz_database_name": "Asia/Ulaanbaatar",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "MN"
+    },
+    {
+        "tz_database_name": "Asia/Ulan Bator",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "MN"
+    },
+    {
+        "tz_database_name": "Australia/Perth",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/West",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Etc/GMT-8",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Hongkong",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "HK"
+    },
+    {
+        "tz_database_name": "PRC",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "CN"
+    },
+    {
+        "tz_database_name": "ROC",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "TW"
+    },
+    {
+        "tz_database_name": "Singapore",
+        "utc_time": "+08:00",
+        "dst_time": "+08:00",
+        "country_code": "SG"
+    },
+    {
+        "tz_database_name": "Australia/Eucla",
+        "utc_time": "+08:45",
+        "dst_time": "+08:45",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Asia/Chita",
+        "utc_time": "+09:00",
+        "dst_time": "+09:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Asia/Dili",
+        "utc_time": "+09:00",
+        "dst_time": "+09:00",
+        "country_code": "TL"
+    },
+    {
+        "tz_database_name": "Asia/Jayapura",
+        "utc_time": "+09:00",
+        "dst_time": "+09:00",
+        "country_code": "ID"
+    },
+    {
+        "tz_database_name": "Asia/Khandyga",
+        "utc_time": "+09:00",
+        "dst_time": "+09:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Asia/Pyongyang",
+        "utc_time": "+09:00",
+        "dst_time": "+09:00",
+        "country_code": "KP"
+    },
+    {
+        "tz_database_name": "Asia/Seoul",
+        "utc_time": "+09:00",
+        "dst_time": "+09:00",
+        "country_code": "KR"
+    },
+    {
+        "tz_database_name": "Asia/Tokyo",
+        "utc_time": "+09:00",
+        "dst_time": "+09:00",
+        "country_code": "JP"
+    },
+    {
+        "tz_database_name": "Asia/Yakutsk",
+        "utc_time": "+09:00",
+        "dst_time": "+09:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Etc/GMT-9",
+        "utc_time": "+09:00",
+        "dst_time": "+09:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Japan",
+        "utc_time": "+09:00",
+        "dst_time": "+09:00",
+        "country_code": "JP"
+    },
+    {
+        "tz_database_name": "Pacific/Palau",
+        "utc_time": "+09:00",
+        "dst_time": "+09:00",
+        "country_code": "PW"
+    },
+    {
+        "tz_database_name": "ROK",
+        "utc_time": "+09:00",
+        "dst_time": "+09:00",
+        "country_code": "KR"
+    },
+    {
+        "tz_database_name": "Australia/Adelaide",
+        "utc_time": "+09:30",
+        "dst_time": "+09:30",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/Broken Hill",
+        "utc_time": "+09:30",
+        "dst_time": "+09:30",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/Darwin",
+        "utc_time": "+09:30",
+        "dst_time": "+09:30",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/North",
+        "utc_time": "+09:30",
+        "dst_time": "+09:30",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/South",
+        "utc_time": "+09:30",
+        "dst_time": "+09:30",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/Yancowinna",
+        "utc_time": "+09:30",
+        "dst_time": "+09:30",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Antarctica/DumontDUrville",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "AQ"
+    },
+    {
+        "tz_database_name": "Antarctica/Macquarie",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Asia/Ust-Nera",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Asia/Vladivostok",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Australia/ACT",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/Brisbane",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/Canberra",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/Currie",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/Hobart",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/Lindeman",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/Melbourne",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/NSW",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/Queensland",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/Sydney",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/Tasmania",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/Victoria",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Etc/GMT-10",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Pacific/Chuuk",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "FM"
+    },
+    {
+        "tz_database_name": "Pacific/Guam",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "GU"
+    },
+    {
+        "tz_database_name": "Pacific/Guam",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "MP"
+    },
+    {
+        "tz_database_name": "Pacific/Port Moresby",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "PG"
+    },
+    {
+        "tz_database_name": "Pacific/Port Moresby",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "AQ"
+    },
+    {
+        "tz_database_name": "Pacific/Port Moresby",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "FM"
+    },
+    {
+        "tz_database_name": "Pacific/Saipan",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "MP"
+    },
+    {
+        "tz_database_name": "Pacific/Truk",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "FM"
+    },
+    {
+        "tz_database_name": "Pacific/Yap",
+        "utc_time": "+10:00",
+        "dst_time": "+10:00",
+        "country_code": "FM"
+    },
+    {
+        "tz_database_name": "Australia/LHI",
+        "utc_time": "+10:30",
+        "dst_time": "+10:30",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Australia/Lord Howe",
+        "utc_time": "+10:30",
+        "dst_time": "+10:30",
+        "country_code": "AU"
+    },
+    {
+        "tz_database_name": "Antarctica/Casey",
+        "utc_time": "+11:00",
+        "dst_time": "+11:00",
+        "country_code": "AQ"
+    },
+    {
+        "tz_database_name": "Asia/Magadan",
+        "utc_time": "+11:00",
+        "dst_time": "+11:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Asia/Sakhalin",
+        "utc_time": "+11:00",
+        "dst_time": "+11:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Asia/Srednekolymsk",
+        "utc_time": "+11:00",
+        "dst_time": "+11:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Etc/GMT-11",
+        "utc_time": "+11:00",
+        "dst_time": "+11:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Pacific/Bougainville",
+        "utc_time": "+11:00",
+        "dst_time": "+11:00",
+        "country_code": "PG"
+    },
+    {
+        "tz_database_name": "Pacific/Efate",
+        "utc_time": "+11:00",
+        "dst_time": "+11:00",
+        "country_code": "VU"
+    },
+    {
+        "tz_database_name": "Pacific/Guadalcanal",
+        "utc_time": "+11:00",
+        "dst_time": "+11:00",
+        "country_code": "SB"
+    },
+    {
+        "tz_database_name": "Pacific/Guadalcanal",
+        "utc_time": "+11:00",
+        "dst_time": "+11:00",
+        "country_code": "FM"
+    },
+    {
+        "tz_database_name": "Pacific/Kosrae",
+        "utc_time": "+11:00",
+        "dst_time": "+11:00",
+        "country_code": "FM"
+    },
+    {
+        "tz_database_name": "Pacific/Norfolk",
+        "utc_time": "+11:00",
+        "dst_time": "+11:00",
+        "country_code": "NF"
+    },
+    {
+        "tz_database_name": "Pacific/Noumea",
+        "utc_time": "+11:00",
+        "dst_time": "+11:00",
+        "country_code": "NC"
+    },
+    {
+        "tz_database_name": "Pacific/Pohnpei",
+        "utc_time": "+11:00",
+        "dst_time": "+11:00",
+        "country_code": "FM"
+    },
+    {
+        "tz_database_name": "Pacific/Ponape",
+        "utc_time": "+11:00",
+        "dst_time": "+11:00",
+        "country_code": "FM"
+    },
+    {
+        "tz_database_name": "Antarctica/McMurdo",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "AQ"
+    },
+    {
+        "tz_database_name": "Antarctica/South Pole",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "AQ"
+    },
+    {
+        "tz_database_name": "Asia/Anadyr",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Asia/Kamchatka",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "RU"
+    },
+    {
+        "tz_database_name": "Etc/GMT-12",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Kwajalein",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "MH"
+    },
+    {
+        "tz_database_name": "NZ",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "NZ"
+    },
+    {
+        "tz_database_name": "Pacific/Auckland",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "NZ"
+    },
+    {
+        "tz_database_name": "Pacific/Auckland",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "AQ"
+    },
+    {
+        "tz_database_name": "Pacific/Fiji",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "FJ"
+    },
+    {
+        "tz_database_name": "Pacific/Funafuti",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "TV"
+    },
+    {
+        "tz_database_name": "Pacific/Kwajalein",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "MH"
+    },
+    {
+        "tz_database_name": "Pacific/Majuro",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "MH"
+    },
+    {
+        "tz_database_name": "Pacific/Nauru",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "NR"
+    },
+    {
+        "tz_database_name": "Pacific/Tarawa",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "KI"
+    },
+    {
+        "tz_database_name": "Pacific/Tarawa",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "MH"
+    },
+    {
+        "tz_database_name": "Pacific/Tarawa",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "TV"
+    },
+    {
+        "tz_database_name": "Pacific/Tarawa",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "UM"
+    },
+    {
+        "tz_database_name": "Pacific/Tarawa",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "WF"
+    },
+    {
+        "tz_database_name": "Pacific/Wake",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "UM"
+    },
+    {
+        "tz_database_name": "Pacific/Wallis",
+        "utc_time": "+12:00",
+        "dst_time": "+12:00",
+        "country_code": "WF"
+    },
+    {
+        "tz_database_name": "NZ-CHAT",
+        "utc_time": "+12:45",
+        "dst_time": "+12:45",
+        "country_code": "NZ"
+    },
+    {
+        "tz_database_name": "Pacific/Chatham",
+        "utc_time": "+12:45",
+        "dst_time": "+12:45",
+        "country_code": "NZ"
+    },
+    {
+        "tz_database_name": "Etc/GMT-13",
+        "utc_time": "+13:00",
+        "dst_time": "+13:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Pacific/Apia",
+        "utc_time": "+13:00",
+        "dst_time": "+13:00",
+        "country_code": "WS"
+    },
+    {
+        "tz_database_name": "Pacific/Enderbury",
+        "utc_time": "+13:00",
+        "dst_time": "+13:00",
+        "country_code": "KI"
+    },
+    {
+        "tz_database_name": "Pacific/Fakaofo",
+        "utc_time": "+13:00",
+        "dst_time": "+13:00",
+        "country_code": "TK"
+    },
+    {
+        "tz_database_name": "Pacific/Kanton",
+        "utc_time": "+13:00",
+        "dst_time": "+13:00",
+        "country_code": "KI"
+    },
+    {
+        "tz_database_name": "Pacific/Tongatapu",
+        "utc_time": "+13:00",
+        "dst_time": "+13:00",
+        "country_code": "TO"
+    },
+    {
+        "tz_database_name": "Etc/GMT-14",
+        "utc_time": "+14:00",
+        "dst_time": "+14:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Pacific/Kiritimati",
+        "utc_time": "+14:00",
+        "dst_time": "+14:00",
+        "country_code": "KI"
+    },
+    {
+        "tz_database_name": "America/Scoresbysund",
+        "utc_time": "-01:00",
+        "dst_time": "-01:00",
+        "country_code": "GL"
+    },
+    {
+        "tz_database_name": "Atlantic/Azores",
+        "utc_time": "-01:00",
+        "dst_time": "-01:00",
+        "country_code": "PT"
+    },
+    {
+        "tz_database_name": "Atlantic/Cape Verde",
+        "utc_time": "-01:00",
+        "dst_time": "-01:00",
+        "country_code": "CV"
+    },
+    {
+        "tz_database_name": "Etc/GMT+1",
+        "utc_time": "-01:00",
+        "dst_time": "-01:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "America/Noronha",
+        "utc_time": "-02:00",
+        "dst_time": "-02:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "Atlantic/South Georgia",
+        "utc_time": "-02:00",
+        "dst_time": "-02:00",
+        "country_code": "GS"
+    },
+    {
+        "tz_database_name": "Brazil/DeNoronha",
+        "utc_time": "-02:00",
+        "dst_time": "-02:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "Etc/GMT+2",
+        "utc_time": "-02:00",
+        "dst_time": "-02:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "America/Araguaina",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "America/Argentina/Buenos Aires",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Argentina/Catamarca",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Argentina/ComodRivadavia",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Argentina/Cordoba",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Argentina/Jujuy",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Argentina/La Rioja",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Argentina/Mendoza",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Argentina/Rio Gallegos",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Argentina/Salta",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Argentina/San Juan",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Argentina/San Luis",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Argentina/Tucuman",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Argentina/Ushuaia",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Bahia",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "America/Belem",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "America/Buenos Aires",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Catamarca",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Cayenne",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "GF"
+    },
+    {
+        "tz_database_name": "America/Cordoba",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Fortaleza",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "America/Godthab",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "GL"
+    },
+    {
+        "tz_database_name": "America/Jujuy",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Maceio",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "America/Mendoza",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Miquelon",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "PM"
+    },
+    {
+        "tz_database_name": "America/Montevideo",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "UY"
+    },
+    {
+        "tz_database_name": "America/Nuuk",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "GL"
+    },
+    {
+        "tz_database_name": "America/Paramaribo",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "SR"
+    },
+    {
+        "tz_database_name": "America/Punta Arenas",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "CL"
+    },
+    {
+        "tz_database_name": "America/Recife",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "America/Rosario",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AR"
+    },
+    {
+        "tz_database_name": "America/Santarem",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "America/Sao Paulo",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "Antarctica/Palmer",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AQ"
+    },
+    {
+        "tz_database_name": "Antarctica/Rothera",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "AQ"
+    },
+    {
+        "tz_database_name": "Atlantic/Stanley",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "FK"
+    },
+    {
+        "tz_database_name": "Brazil/East",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "Etc/GMT+3",
+        "utc_time": "-03:00",
+        "dst_time": "-03:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "America/St Johns",
+        "utc_time": "-03:30",
+        "dst_time": "-03:30",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "Canada/Newfoundland",
+        "utc_time": "-03:30",
+        "dst_time": "-03:30",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Anguilla",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "AI"
+    },
+    {
+        "tz_database_name": "America/Antigua",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "AG"
+    },
+    {
+        "tz_database_name": "America/Aruba",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "AW"
+    },
+    {
+        "tz_database_name": "America/Asuncion",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "PY"
+    },
+    {
+        "tz_database_name": "America/Barbados",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "BB"
+    },
+    {
+        "tz_database_name": "America/Blanc-Sablon",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Boa Vista",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "America/Campo Grande",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "America/Caracas",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "VE"
+    },
+    {
+        "tz_database_name": "America/Cuiaba",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "America/Curacao",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "CW"
+    },
+    {
+        "tz_database_name": "America/Dominica",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "DM"
+    },
+    {
+        "tz_database_name": "America/Glace Bay",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Goose Bay",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Grenada",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "GD"
+    },
+    {
+        "tz_database_name": "America/Guadeloupe",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "GP"
+    },
+    {
+        "tz_database_name": "America/Guyana",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "GY"
+    },
+    {
+        "tz_database_name": "America/Halifax",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Kralendijk",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "BQ"
+    },
+    {
+        "tz_database_name": "America/La Paz",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "BO"
+    },
+    {
+        "tz_database_name": "America/Lower Princes",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "SX"
+    },
+    {
+        "tz_database_name": "America/Manaus",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "America/Marigot",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "MF"
+    },
+    {
+        "tz_database_name": "America/Martinique",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "MQ"
+    },
+    {
+        "tz_database_name": "America/Moncton",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Montserrat",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "MS"
+    },
+    {
+        "tz_database_name": "America/Port of Spain",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "TT"
+    },
+    {
+        "tz_database_name": "America/Porto Velho",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "PR"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "AG"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "AI"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "AW"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "BL"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "BQ"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "CW"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "DM"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "GD"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "GP"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "KN"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "LC"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "MF"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "MS"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "SX"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "TT"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "VC"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "VG"
+    },
+    {
+        "tz_database_name": "America/Puerto Rico",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "VI"
+    },
+    {
+        "tz_database_name": "America/Santiago",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "CL"
+    },
+    {
+        "tz_database_name": "America/Santo Domingo",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "DO"
+    },
+    {
+        "tz_database_name": "America/St Barthelemy",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "BL"
+    },
+    {
+        "tz_database_name": "America/St Kitts",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "KN"
+    },
+    {
+        "tz_database_name": "America/St Lucia",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "LC"
+    },
+    {
+        "tz_database_name": "America/St Thomas",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "VI"
+    },
+    {
+        "tz_database_name": "America/St Vincent",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "VC"
+    },
+    {
+        "tz_database_name": "America/Thule",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "GL"
+    },
+    {
+        "tz_database_name": "America/Tortola",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "VG"
+    },
+    {
+        "tz_database_name": "America/Virgin",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "VI"
+    },
+    {
+        "tz_database_name": "Atlantic/Bermuda",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "BM"
+    },
+    {
+        "tz_database_name": "Brazil/West",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "Canada/Atlantic",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "Chile/Continental",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": "CL"
+    },
+    {
+        "tz_database_name": "Etc/GMT+4",
+        "utc_time": "-04:00",
+        "dst_time": "-04:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "America/Atikokan",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Bogota",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "CO"
+    },
+    {
+        "tz_database_name": "America/Cancun",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "MX"
+    },
+    {
+        "tz_database_name": "America/Cayman",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "KY"
+    },
+    {
+        "tz_database_name": "America/Coral Harbour",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Detroit",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Eirunepe",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "America/Fort Wayne",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Grand Turk",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "TC"
+    },
+    {
+        "tz_database_name": "America/Guayaquil",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "EC"
+    },
+    {
+        "tz_database_name": "America/Havana",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "CU"
+    },
+    {
+        "tz_database_name": "America/Indiana/Indianapolis",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Indiana/Marengo",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Indiana/Petersburg",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Indiana/Vevay",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Indiana/Vincennes",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Indiana/Winamac",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Indianapolis",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Iqaluit",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Jamaica",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "JM"
+    },
+    {
+        "tz_database_name": "America/Kentucky/Louisville",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Kentucky/Monticello",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Lima",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "PE"
+    },
+    {
+        "tz_database_name": "America/Louisville",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Montreal",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Nassau",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "BS"
+    },
+    {
+        "tz_database_name": "America/New York",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Nipigon",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Panama",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "PA"
+    },
+    {
+        "tz_database_name": "America/Panama",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Panama",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "KY"
+    },
+    {
+        "tz_database_name": "America/Pangnirtung",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Port-au-Prince",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "HT"
+    },
+    {
+        "tz_database_name": "America/Porto Acre",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "America/Rio Branco",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "America/Thunder Bay",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Toronto",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Toronto",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "BS"
+    },
+    {
+        "tz_database_name": "Brazil/Acre",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "BR"
+    },
+    {
+        "tz_database_name": "Canada/Eastern",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "Cuba",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "CU"
+    },
+    {
+        "tz_database_name": "EST",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "EST5EDT",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Etc/GMT+5",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Jamaica",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "JM"
+    },
+    {
+        "tz_database_name": "US/East-Indiana",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "US/Eastern",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "US/Michigan",
+        "utc_time": "-05:00",
+        "dst_time": "-05:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Bahia Banderas",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "MX"
+    },
+    {
+        "tz_database_name": "America/Belize",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "BZ"
+    },
+    {
+        "tz_database_name": "America/Chicago",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Chihuahua",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "MX"
+    },
+    {
+        "tz_database_name": "America/Costa Rica",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "CR"
+    },
+    {
+        "tz_database_name": "America/El Salvador",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "SV"
+    },
+    {
+        "tz_database_name": "America/Guatemala",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "GT"
+    },
+    {
+        "tz_database_name": "America/Indiana/Knox",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Indiana/Tell City",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Knox IN",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Managua",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "NI"
+    },
+    {
+        "tz_database_name": "America/Matamoros",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "MX"
+    },
+    {
+        "tz_database_name": "America/Menominee",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Merida",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "MX"
+    },
+    {
+        "tz_database_name": "America/Mexico City",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "MX"
+    },
+    {
+        "tz_database_name": "America/Monterrey",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "MX"
+    },
+    {
+        "tz_database_name": "America/North Dakota/Beulah",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/North Dakota/Center",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/North Dakota/New Salem",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Ojinaga",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "MX"
+    },
+    {
+        "tz_database_name": "America/Rainy River",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Rankin Inlet",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Regina",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Resolute",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Swift Current",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Tegucigalpa",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "HN"
+    },
+    {
+        "tz_database_name": "America/Winnipeg",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "Canada/Central",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "Canada/Saskatchewan",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "Chile/EasterIsland",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "CL"
+    },
+    {
+        "tz_database_name": "CST6CDT",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Etc/GMT+6",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Mexico/General",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "MX"
+    },
+    {
+        "tz_database_name": "Pacific/Easter",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "CL"
+    },
+    {
+        "tz_database_name": "Pacific/Galapagos",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "EC"
+    },
+    {
+        "tz_database_name": "US/Central",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "US/Indiana-Starke",
+        "utc_time": "-06:00",
+        "dst_time": "-06:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Boise",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Cambridge Bay",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Ciudad Juarez",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "MX"
+    },
+    {
+        "tz_database_name": "America/Creston",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Dawson",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Dawson Creek",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Denver",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Edmonton",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Fort Nelson",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Hermosillo",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "MX"
+    },
+    {
+        "tz_database_name": "America/Inuvik",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Mazatlan",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "MX"
+    },
+    {
+        "tz_database_name": "America/Phoenix",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Phoenix",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Shiprock",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Whitehorse",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "America/Yellowknife",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "Canada/Mountain",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "Canada/Yukon",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "Etc/GMT+7",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Mexico/BajaSur",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "MX"
+    },
+    {
+        "tz_database_name": "MST",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "MST7MDT",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Navajo",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "US/Arizona",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "US/Mountain",
+        "utc_time": "-07:00",
+        "dst_time": "-07:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Ensenada",
+        "utc_time": "-08:00",
+        "dst_time": "-08:00",
+        "country_code": "MX"
+    },
+    {
+        "tz_database_name": "America/Los Angeles",
+        "utc_time": "-08:00",
+        "dst_time": "-08:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Santa Isabel",
+        "utc_time": "-08:00",
+        "dst_time": "-08:00",
+        "country_code": "MX"
+    },
+    {
+        "tz_database_name": "America/Tijuana",
+        "utc_time": "-08:00",
+        "dst_time": "-08:00",
+        "country_code": "MX"
+    },
+    {
+        "tz_database_name": "America/Vancouver",
+        "utc_time": "-08:00",
+        "dst_time": "-08:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "Canada/Pacific",
+        "utc_time": "-08:00",
+        "dst_time": "-08:00",
+        "country_code": "CA"
+    },
+    {
+        "tz_database_name": "Etc/GMT+8",
+        "utc_time": "-08:00",
+        "dst_time": "-08:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Mexico/BajaNorte",
+        "utc_time": "-08:00",
+        "dst_time": "-08:00",
+        "country_code": "MX"
+    },
+    {
+        "tz_database_name": "Pacific/Pitcairn",
+        "utc_time": "-08:00",
+        "dst_time": "-08:00",
+        "country_code": "PN"
+    },
+    {
+        "tz_database_name": "PST8PDT",
+        "utc_time": "-08:00",
+        "dst_time": "-08:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "US/Pacific",
+        "utc_time": "-08:00",
+        "dst_time": "-08:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Anchorage",
+        "utc_time": "-09:00",
+        "dst_time": "-09:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Juneau",
+        "utc_time": "-09:00",
+        "dst_time": "-09:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Metlakatla",
+        "utc_time": "-09:00",
+        "dst_time": "-09:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Nome",
+        "utc_time": "-09:00",
+        "dst_time": "-09:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Sitka",
+        "utc_time": "-09:00",
+        "dst_time": "-09:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Yakutat",
+        "utc_time": "-09:00",
+        "dst_time": "-09:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "Etc/GMT+9",
+        "utc_time": "-09:00",
+        "dst_time": "-09:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Pacific/Gambier",
+        "utc_time": "-09:00",
+        "dst_time": "-09:00",
+        "country_code": "PF"
+    },
+    {
+        "tz_database_name": "US/Alaska",
+        "utc_time": "-09:00",
+        "dst_time": "-09:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "Pacific/Marquesas",
+        "utc_time": "-09:30",
+        "dst_time": "-09:30",
+        "country_code": "PF"
+    },
+    {
+        "tz_database_name": "America/Adak",
+        "utc_time": "-10:00",
+        "dst_time": "-10:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "America/Atka",
+        "utc_time": "-10:00",
+        "dst_time": "-10:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "Etc/GMT+10",
+        "utc_time": "-10:00",
+        "dst_time": "-10:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "HST",
+        "utc_time": "-10:00",
+        "dst_time": "-10:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Pacific/Honolulu",
+        "utc_time": "-10:00",
+        "dst_time": "-10:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "Pacific/Honolulu",
+        "utc_time": "-10:00",
+        "dst_time": "-10:00",
+        "country_code": "UM"
+    },
+    {
+        "tz_database_name": "Pacific/Johnston",
+        "utc_time": "-10:00",
+        "dst_time": "-10:00",
+        "country_code": "UM"
+    },
+    {
+        "tz_database_name": "Pacific/Rarotonga",
+        "utc_time": "-10:00",
+        "dst_time": "-10:00",
+        "country_code": "CK"
+    },
+    {
+        "tz_database_name": "Pacific/Tahiti",
+        "utc_time": "-10:00",
+        "dst_time": "-10:00",
+        "country_code": "PF"
+    },
+    {
+        "tz_database_name": "US/Aleutian",
+        "utc_time": "-10:00",
+        "dst_time": "-10:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "US/Hawaii",
+        "utc_time": "-10:00",
+        "dst_time": "-10:00",
+        "country_code": "US"
+    },
+    {
+        "tz_database_name": "Etc/GMT+11",
+        "utc_time": "-11:00",
+        "dst_time": "-11:00",
+        "country_code": ""
+    },
+    {
+        "tz_database_name": "Pacific/Midway",
+        "utc_time": "-11:00",
+        "dst_time": "-11:00",
+        "country_code": "UM"
+    },
+    {
+        "tz_database_name": "Pacific/Niue",
+        "utc_time": "-11:00",
+        "dst_time": "-11:00",
+        "country_code": "NU"
+    },
+    {
+        "tz_database_name": "Pacific/Pago Pago",
+        "utc_time": "-11:00",
+        "dst_time": "-11:00",
+        "country_code": "AS"
+    },
+    {
+        "tz_database_name": "Pacific/Pago Pago",
+        "utc_time": "-11:00",
+        "dst_time": "-11:00",
+        "country_code": "UM"
+    },
+    {
+        "tz_database_name": "Pacific/Samoa",
+        "utc_time": "-11:00",
+        "dst_time": "-11:00",
+        "country_code": "AS"
+    },
+    {
+        "tz_database_name": "US/Samoa",
+        "utc_time": "-11:00",
+        "dst_time": "-11:00",
+        "country_code": "AS"
+    },
+    {
+        "tz_database_name": "Etc/GMT+12",
+        "utc_time": "-12:00",
+        "dst_time": "-12:00",
+        "country_code": ""
+    }
+]
