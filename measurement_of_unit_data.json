@@ -1,0 +1,632 @@
+[
+    {
+        "name": "Meter/Metre",
+        "unit_of": "Length",
+        "symbol": "m",
+        "system": "Metric (SI base unit)"
+    },
+    {
+        "name": "Millimeter",
+        "unit_of": "Length",
+        "symbol": "mm",
+        "system": "Metric"
+    },
+    {
+        "name": "Centimeter",
+        "unit_of": "Length",
+        "symbol": "cm",
+        "system": "Metric"
+    },
+    {
+        "name": "Decimeter",
+        "unit_of": "Length",
+        "symbol": "dm",
+        "system": "Metric"
+    },
+    {
+        "name": "Kilometer",
+        "unit_of": "Length",
+        "symbol": "km",
+        "system": "Metric"
+    },
+    {
+        "name": "Astronomical Unit",
+        "unit_of": "Length",
+        "symbol": "AE",
+        "system": "Metric"
+    },
+    {
+        "name": "Light Year",
+        "unit_of": "Length",
+        "symbol": "lj",
+        "system": "Metric"
+    },
+    {
+        "name": "Parsec",
+        "unit_of": "Length",
+        "symbol": "pc",
+        "system": "Metric"
+    },
+    {
+        "name": "Inch",
+        "unit_of": "Length",
+        "symbol": "in or \u201c",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Foot",
+        "unit_of": "Length",
+        "symbol": "ft",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Yard",
+        "unit_of": "Length",
+        "symbol": "yd",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Mile",
+        "unit_of": "Length",
+        "symbol": "mi or m or ml",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Nautical Mile",
+        "unit_of": "Length",
+        "symbol": "sm",
+        "system": "Imperial"
+    },
+    {
+        "name": "Square meter",
+        "unit_of": "Area",
+        "symbol": "sqm or m2",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Acre",
+        "unit_of": "Area",
+        "symbol": "acre",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Are",
+        "unit_of": "Area",
+        "symbol": "a or ares",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Hectare",
+        "unit_of": "Area",
+        "symbol": "ha",
+        "system": "Metric"
+    },
+    {
+        "name": "Square inch",
+        "unit_of": "Area",
+        "symbol": "in2",
+        "system": "Imperial"
+    },
+    {
+        "name": "Square feet",
+        "unit_of": "Area",
+        "symbol": "ft2",
+        "system": "Imperial"
+    },
+    {
+        "name": "Square yard",
+        "unit_of": "Area",
+        "symbol": "yd2",
+        "system": "Imperial"
+    },
+    {
+        "name": "Square mile",
+        "unit_of": "Area",
+        "symbol": "sq mi or mi2",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Cubic meter",
+        "unit_of": "Volume (V)",
+        "symbol": "m3",
+        "system": "Metric"
+    },
+    {
+        "name": "Liter",
+        "unit_of": "Volume (V)",
+        "symbol": "l",
+        "system": "Metric"
+    },
+    {
+        "name": "Milliliter",
+        "unit_of": "Volume (V)",
+        "symbol": "ml",
+        "system": "Metric"
+    },
+    {
+        "name": "Centiliter",
+        "unit_of": "Volume (V)",
+        "symbol": "cl",
+        "system": "Metric"
+    },
+    {
+        "name": "Deciliter",
+        "unit_of": "Volume (V)",
+        "symbol": "dl",
+        "system": "Metric"
+    },
+    {
+        "name": "Hectoliter",
+        "unit_of": "Volume (V)",
+        "symbol": "hl",
+        "system": "Metric"
+    },
+    {
+        "name": "Cubic Inch",
+        "unit_of": "Volume (V)",
+        "symbol": "cu in or in3",
+        "system": "USCS"
+    },
+    {
+        "name": "Cubic Foot",
+        "unit_of": "Volume (V)",
+        "symbol": "cu ft or ft3",
+        "system": "USCS"
+    },
+    {
+        "name": "Cubic Yard",
+        "unit_of": "Volume (V)",
+        "symbol": "cu yd or yd3",
+        "system": "USCS"
+    },
+    {
+        "name": "Acre-Foot",
+        "unit_of": "Volume (V)",
+        "symbol": "acre ft",
+        "system": "USCS"
+    },
+    {
+        "name": "Teaspoon",
+        "unit_of": "Volume (V)",
+        "symbol": "tsp",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Tablespoon",
+        "unit_of": "Volume (V)",
+        "symbol": "tbsp",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Fluid Ounce",
+        "unit_of": "Volume (V)",
+        "symbol": "fl oz or oz. fl",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Cup",
+        "unit_of": "Volume (V)",
+        "symbol": "cup",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Gill",
+        "unit_of": "Volume (V)",
+        "symbol": "gill",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Pint",
+        "unit_of": "Volume (V)",
+        "symbol": "pt or p",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Quart",
+        "unit_of": "Volume (V)",
+        "symbol": "qt",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Gallon",
+        "unit_of": "Volume (V)",
+        "symbol": "gal",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Radian",
+        "unit_of": "Angle (\u03b1)",
+        "symbol": "rad or\u2002c",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Degree",
+        "unit_of": "Angle (\u03b1)",
+        "symbol": "\u00b0 or deg",
+        "system": "Metric"
+    },
+    {
+        "name": "Steradian",
+        "unit_of": "Solid angle (\u03a9)",
+        "symbol": "sr",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Second",
+        "unit_of": "Time (t)",
+        "symbol": "s",
+        "system": "Metric (SI base unit)"
+    },
+    {
+        "name": "Minute",
+        "unit_of": "Time (t)",
+        "symbol": "min",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Hour",
+        "unit_of": "Time (t)",
+        "symbol": "h",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Day",
+        "unit_of": "Time (t)",
+        "symbol": "d",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Year",
+        "unit_of": "Time (t)",
+        "symbol": "a",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Hertz",
+        "unit_of": "Frequency (f)",
+        "symbol": "Hz",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Angular Frequency",
+        "unit_of": "Frequency (f)",
+        "symbol": "\u03c9",
+        "system": "Metric"
+    },
+    {
+        "name": "Decibel",
+        "unit_of": "Sound",
+        "symbol": "dB",
+        "system": "Metric"
+    },
+    {
+        "name": "Kilogram meters per second",
+        "unit_of": "Momentum",
+        "symbol": "kg m/s",
+        "system": "Metric"
+    },
+    {
+        "name": "Miles per hour",
+        "unit_of": "Speed",
+        "symbol": "mph",
+        "system": "Imperial"
+    },
+    {
+        "name": "Meters per second",
+        "unit_of": "Speed",
+        "symbol": "m/s or kph",
+        "system": "Metric"
+    },
+    {
+        "name": "Gravity Imperial\n",
+        "unit_of": "Acceleration of Gravity (g)",
+        "symbol": "ft/s2",
+        "system": "Imperial"
+    },
+    {
+        "name": "Gravity Metric",
+        "unit_of": "Acceleration of Gravity (g)",
+        "symbol": "m/s2",
+        "system": "Metric"
+    },
+    {
+        "name": "Feet per second",
+        "unit_of": "Mass",
+        "symbol": "ft/s",
+        "system": "Imperial"
+    },
+    {
+        "name": "Grams",
+        "unit_of": "Mass",
+        "symbol": "g",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Kilogram\n",
+        "unit_of": "Mass",
+        "symbol": "kg",
+        "system": "Metric (SI base unit)"
+    },
+    {
+        "name": "Grain",
+        "unit_of": "Mass",
+        "symbol": "gr",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Dram",
+        "unit_of": "Mass",
+        "symbol": "dr",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Ounce",
+        "unit_of": "Mass",
+        "symbol": "oz",
+        "system": "Imperial"
+    },
+    {
+        "name": "Pound",
+        "unit_of": "Mass",
+        "symbol": "lb",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Hundredweight",
+        "unit_of": "Mass",
+        "symbol": "cwt",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Ton",
+        "unit_of": "Mass",
+        "symbol": "ton",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Tonne\n",
+        "unit_of": "Mass",
+        "symbol": "t",
+        "system": "Metric"
+    },
+    {
+        "name": "Slug",
+        "unit_of": "Mass",
+        "symbol": "slug",
+        "system": "USCS"
+    },
+    {
+        "name": "Density",
+        "unit_of": "Density (\u03c1)",
+        "symbol": "kg/m3",
+        "system": "Metric"
+    },
+    {
+        "name": "Denier",
+        "unit_of": "Linear Density",
+        "symbol": "den or D",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Tex",
+        "unit_of": "Linear Density",
+        "symbol": "tex",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Decitex",
+        "unit_of": "Linear Density",
+        "symbol": "dtex",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Mommes",
+        "unit_of": "Weight",
+        "symbol": "mm",
+        "system": "Traditional"
+    },
+    {
+        "name": "Newton",
+        "unit_of": "Force, Weight (F)",
+        "symbol": "N",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Kilopond",
+        "unit_of": "Force (F)",
+        "symbol": "kp",
+        "system": "Metric"
+    },
+    {
+        "name": "Pond",
+        "unit_of": "Force (F)",
+        "symbol": "p",
+        "system": "Metric"
+    },
+    {
+        "name": "Newton meter",
+        "unit_of": "Torque (M)",
+        "symbol": "",
+        "system": "Metric"
+    },
+    {
+        "name": "Joule",
+        "unit_of": "Work, Energy (E)",
+        "symbol": "J",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Watt",
+        "unit_of": "Power, Radiant Flux (P)",
+        "symbol": "w",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Kilowatt",
+        "unit_of": "Power (P)",
+        "symbol": "kw",
+        "system": "Metric"
+    },
+    {
+        "name": "Horsepower",
+        "unit_of": "Power (P)",
+        "symbol": "hp",
+        "system": "Traditional"
+    },
+    {
+        "name": "Pascal",
+        "unit_of": "Pressure, Stress",
+        "symbol": "Pa",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Bar",
+        "unit_of": "Power (P)",
+        "symbol": "bar",
+        "system": "Metric"
+    },
+    {
+        "name": "Pounds per square inch",
+        "unit_of": "Pressure",
+        "symbol": "psi or lbf/in2",
+        "system": "Imperial"
+    },
+    {
+        "name": "Kelvin",
+        "unit_of": "Temperature (T)",
+        "symbol": "K",
+        "system": "Metric (SI)"
+    },
+    {
+        "name": "Centigrade",
+        "unit_of": "Temperature (T)",
+        "symbol": "\u00b0C",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Calorie",
+        "unit_of": "Amount of Heat (Q)",
+        "symbol": "Cal or kcal / cal",
+        "system": "Metric"
+    },
+    {
+        "name": "Fahrenheit",
+        "unit_of": "Temperature (T)",
+        "symbol": "\u00b0F",
+        "system": "Imperial / USCS"
+    },
+    {
+        "name": "Candela",
+        "unit_of": "Luminous Intensity (l)",
+        "symbol": "cd",
+        "system": "Metric (SI base unit)"
+    },
+    {
+        "name": "Candela per square metre",
+        "unit_of": "Luminance (L)",
+        "symbol": "cd/m2",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Lumen",
+        "unit_of": "Luminous Flux (\u03a6)",
+        "symbol": "lm",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Lux",
+        "unit_of": "Illuminance (E)",
+        "symbol": "lx",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Lumen Seconds",
+        "unit_of": "Light quantity (Q)",
+        "symbol": "ls",
+        "system": "Metric"
+    },
+    {
+        "name": "Diopter",
+        "unit_of": "Refractive Index (D)",
+        "symbol": "dpt",
+        "system": "Metric"
+    },
+    {
+        "name": "Ampere",
+        "unit_of": "Current (I)",
+        "symbol": "A / Amps",
+        "system": "Metric (SI base unit)"
+    },
+    {
+        "name": "Coulomb",
+        "unit_of": "Electric Charge (Q)",
+        "symbol": "C",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Volt",
+        "unit_of": "Voltage, Electrical (U)",
+        "symbol": "V",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Ohm",
+        "unit_of": "Electrical Resistance, Impedance (R)",
+        "symbol": "\u03a9",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Farad",
+        "unit_of": "Electrical Capacitance (F)",
+        "symbol": "F",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Siemens",
+        "unit_of": "Electrical Conductance (S)",
+        "symbol": "S",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Henry",
+        "unit_of": "Electrical Inductance (H)",
+        "symbol": "H",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Weber",
+        "unit_of": "Magnetic Flux (Wb)",
+        "symbol": "Wb",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Tesla",
+        "unit_of": "Magnetic Flux Density, Magnetic Field (T)",
+        "symbol": "(T)",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Becquerel",
+        "unit_of": "Radioactive Decay",
+        "symbol": "Bq",
+        "system": "Metric (derived)"
+    },
+    {
+        "name": "Mole",
+        "unit_of": "Amount of Substance (s)",
+        "symbol": "mol",
+        "system": "Metric (SI base unit)"
+    },
+    {
+        "name": "Paper Bale",
+        "unit_of": "Paper Quantity",
+        "symbol": "ream",
+        "system": "Imperial"
+    },
+    {
+        "name": "Dozen",
+        "unit_of": "Quantities",
+        "symbol": "dz or doz",
+        "system": "Imperial"
+    }
+]
